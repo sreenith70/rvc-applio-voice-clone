@@ -1,0 +1,13 @@
+venv/
+*.wav
+*.mp3
+*.pt
+*.pth
+logs/
+datasets/
+audio-outputs/
+audio-others/
+hubert_base.pt
+model/
+weights/
+__pycache__/
